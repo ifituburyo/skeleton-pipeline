@@ -5,3 +5,6 @@ public/mediapipe/wasm
 .DS_Store
 test-results
 public/models/*.task
+
+# Raw screen recordings (compressed copies live in docs/media/)
+/*.mp4

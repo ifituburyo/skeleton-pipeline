@@ -4,6 +4,12 @@ Browser-based, local-first AR anatomy visualiser. A webcam feed is processed **o
 
 > **Not an X-ray, scan or diagnostic tool.** An RGB camera cannot see inside the body. The skeleton is an illustrative model positioned from estimated *external* landmarks. Angles are educational estimates, not clinical measurements.
 
+## Demo
+
+[![Live webcam demo: the reference skeleton follows arm movements in real time](docs/media/demo-preview.gif)](docs/media/demo.mp4)
+
+▶ **[Watch the full demonstration (3 min 35 s, MP4, 12 MB)](docs/media/demo.mp4)**. It covers live webcam tracking, the six-stage pipeline view, the 3D inspector, the analysis panel and settings.
+
 Implements *AR Anatomy Visualizer — PRD & System Architecture Specification v1.0 (11 Nov 2026)*; see the [traceability matrix](#requirements-traceability).
 
 ---
