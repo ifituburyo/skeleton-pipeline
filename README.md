@@ -74,7 +74,7 @@ src/
 ├── types/       Shared types + PipelineError
 └── tests/       Vitest unit tests
 scripts/         copy-mediapipe-wasm, fetch-models, e2e-smoke
-docs/            asset licences, test plan
+docs/            asset licences, test plan, models (MODELS.md)
 server/          placeholder – no backend in the MVP (spec §7.2)
 ```
 
