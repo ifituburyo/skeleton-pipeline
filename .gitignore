@@ -1,0 +1,7 @@
+node_modules
+dist
+public/mediapipe/wasm
+*.local
+.DS_Store
+test-results
+public/models/*.task
